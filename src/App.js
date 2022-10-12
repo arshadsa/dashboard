@@ -40,7 +40,7 @@ function App() {
             <Routes>
               {/* Dashboard */}
               <Route path='/' element={<Ecommerce/>}/>
-              <Route path='/ecomerce' element={<Ecommerce/>}/>
+              <Route path='/ecommerce' element={<Ecommerce/>}/>
 
               {/* Pages */}
               <Route path='/orders' element={<Orders/>}/>

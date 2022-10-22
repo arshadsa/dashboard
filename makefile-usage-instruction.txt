@@ -1,0 +1,3 @@
+Just run this command in CMD!! Not Git bash
+
+makefile git m="Message"
